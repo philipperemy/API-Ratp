@@ -7,6 +7,9 @@ import codec.objects.Query;
 
 public class Main
 {
+    /*
+     * Main class to launch the application
+     */
     public static void main(String[] args) throws Exception
     {
         while (true)
